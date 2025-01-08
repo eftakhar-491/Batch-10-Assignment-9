@@ -2,6 +2,8 @@
 
 - French Vocabulary Learning Website
 
+<img src="./p7.JPG"/>
+
 # Live_URL
 
 - https://b-10-assignment-9.web.app/
