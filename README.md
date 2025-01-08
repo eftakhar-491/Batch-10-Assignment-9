@@ -40,3 +40,9 @@ The website aims to be a comprehensive resource that encourages continuous vocab
 - Typewriter-Effect
 - Daisy UI
 - Tailwind CSS
+
+# key features
+- git clone https://github.com/eftakhar-491/Batch-10-Assignment-9.git
+- cd ./(filename)
+- npm i
+- npm run dev
